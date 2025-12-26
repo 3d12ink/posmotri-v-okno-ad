@@ -1,1 +1,1 @@
-https://github.com/3d12ink/posmotri-v-okno-ad/tree/main
+https://github.com/3d12ink/posmotri-v-okno-ad
