@@ -1,1 +1,1 @@
-https://github.com/3d12ink/ono-tebe-nado-ad
+https://github.com/3d12ink/posmotri-v-okno-ad/tree/main
